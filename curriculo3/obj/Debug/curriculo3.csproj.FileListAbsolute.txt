@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\curriculo3\curriculo3\obj\Debug\curriculo3.csprojAssemblyReference.cache
+C:\Users\Tecnico\source\repos\curriculo3\curriculo3\obj\Debug\curriculo3.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\curriculo3\curriculo3\bin\Debug\curriculo3.exe.config
+C:\Users\Tecnico\source\repos\curriculo3\curriculo3\bin\Debug\curriculo3.exe
+C:\Users\Tecnico\source\repos\curriculo3\curriculo3\bin\Debug\curriculo3.pdb
+C:\Users\Tecnico\source\repos\curriculo3\curriculo3\obj\Debug\curriculo3.exe
+C:\Users\Tecnico\source\repos\curriculo3\curriculo3\obj\Debug\curriculo3.pdb
